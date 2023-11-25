@@ -1,7 +1,6 @@
 # NetflixCE
 
 - Reupload because the old repository got spam reported by dumbasses from Rune.
-- Discord server for support: https://discord.gg/short (please make sure you read all that's written below and the txt file before asking for help)
 
   
 - Update, NEW UI:
