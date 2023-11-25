@@ -31,35 +31,7 @@ GAME LINK: https://www.roblox.com/games/15167092402/Baseplate
 
 
 
-# VIDEOS
-
-New showcase video release by inposs, W man go sub to him
-
-
-
-
-https://www.youtube.com/watch?v=GtYHeCf2i5A&ab_channel=inposs
-
-
-
-
-Tutorial vid (Not uploaded by me)
-
-
-
-
-https://www.youtube.com/watch?v=W1qXPGQpxSc
-
-
-
-
-https://www.youtube.com/watch?v=G3MhOPE0G2s&ab_channel=Anoyingguy
-
-
-
-
-
-# Errors
+# ERRORS
 
 
 If you're getting pop-ups that say something along the lines of "Missing DLL Files VCRUNTIME140D.dll" Download the Visual C++ Redistributable package below
